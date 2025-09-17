@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/1cb61600-fb8d-4d30-8909-68efe9a7ac3f/console.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/queries/feed_follows.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/queries/feeds.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/queries/posts.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/queries/users.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/schema/002_feeds.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/schema/003_feed_follows.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/schema/004_feeds.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+    <file url="file://$PROJECT_DIR$/sql/schema/005_posts.sql" value="1cb61600-fb8d-4d30-8909-68efe9a7ac3f" />
+  </component>
+</project>
